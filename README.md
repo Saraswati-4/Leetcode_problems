@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
