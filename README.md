@@ -41,10 +41,12 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
