@@ -25,6 +25,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0511-game-play-analysis-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0607-sales-person) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Math
 |  |
 | ------- |
