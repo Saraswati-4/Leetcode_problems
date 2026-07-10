@@ -6,6 +6,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0041-first-missing-positive) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
