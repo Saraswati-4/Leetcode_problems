@@ -50,6 +50,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
