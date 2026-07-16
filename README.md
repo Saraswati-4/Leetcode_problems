@@ -12,6 +12,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
 | ------- |
@@ -91,4 +96,5 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
