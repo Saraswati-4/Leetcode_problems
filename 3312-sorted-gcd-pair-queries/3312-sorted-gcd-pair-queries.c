@@ -1,93 +1,46 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-int compareLongLong(const void* a, const void* b) {
-    long long x = *(const long long*)a;
-    long long y = *(const long long*)b;
-
-    return (x > y) - (x < y);
-}
-
-int lowerBound(long long* arr, int size, long long target) {
-    int left = 0;
-    int right = size;
-
-    while (left < right) {
-        int mid = left + (right - left) / 2;
-
-        if (arr[mid] < target) {
-            left = mid + 1;
-        } else {
-            right = mid;
-        }
-    }
-
-    return left;
-}
-int* gcdValues(int* nums, int numsSize, long long* queries, int queriesSize, int* returnSize) {
-    int maxValue = 0;
-
+int* gcdValues(int* nums, int numsSize, long long* queries, int queriesSize,
+               int* returnSize) {
+    int m = 0;
     for (int i = 0; i < numsSize; i++) {
-        if (nums[i] > maxValue) {
-            maxValue = nums[i];
+        if (nums[i] > m) {
+            m = nums[i];
         }
     }
-
-    int* freq = calloc(maxValue + 1, sizeof(int));
-
+    long long* cnt = (long long*)calloc(m + 1, sizeof(long long));
     for (int i = 0; i < numsSize; i++) {
-        freq[nums[i]]++;
+        cnt[nums[i]]++;
     }
-
-    long long* count = calloc(maxValue + 1, sizeof(long long));
-
-    for (int gcdValue = maxValue; gcdValue >= 1; gcdValue--) {
-        long long total = 0;
-
-        for (int multiple = gcdValue;multiple <= maxValue;multiple += gcdValue) {
-            total += freq[multiple];
-        }
-
-        long long pairs = total * (total - 1) / 2;
-
-        for (
-            int multiple = 2 * gcdValue;
-            multiple <= maxValue;
-            multiple += gcdValue
-        ) {
-            pairs -= count[multiple];
-        }
-
-        count[gcdValue] = pairs;
-    }
-
-    long long* prefix = malloc(maxValue * sizeof(long long));
-    int* values = malloc(maxValue * sizeof(int));
-
-    int size = 0;
-    long long sum = 0;
-
-    for (int gcdValue = 1; gcdValue <= maxValue; gcdValue++) {
-        if (count[gcdValue] > 0) {
-            sum += count[gcdValue];
-            prefix[size] = sum;
-            values[size] = gcdValue;
-            size++;
+    for (int i = 1; i <= m; i++) {
+        for (int j = i * 2; j <= m; j += i) {
+            cnt[i] += cnt[j];
         }
     }
-
-    int* result = malloc(queriesSize * sizeof(int));
+    for (int i = 1; i <= m; i++) {
+        cnt[i] = cnt[i] * (cnt[i] - 1) / 2;
+    }
+    for (int i = m; i >= 1; i--) {
+        for (int j = i * 2; j <= m; j += i) {
+            cnt[i] -= cnt[j];
+        }
+    }
+    for (int i = 1; i <= m; i++) {
+        cnt[i] += cnt[i - 1];
+    }
+    int* ans = (int*)malloc(queriesSize * sizeof(int));
+    for (int k = 0; k < queriesSize; k++) {
+        long long q = queries[k] + 1;
+        int left = 1, right = m;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (cnt[mid] >= q) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
+        }
+        ans[k] = left;
+    }
+    free(cnt);
     *returnSize = queriesSize;
-
-    for (int i = 0; i < queriesSize; i++) {
-        int index = lowerBound(prefix, size, queries[i] + 1);
-        result[i] = values[index];
-    }
-
-    free(freq);
-    free(count);
-    free(prefix);
-    free(values);
-
-    return result;
+    return ans;
 }
