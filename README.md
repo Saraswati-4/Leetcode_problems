@@ -36,6 +36,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1667-fix-names-in-a-table](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Math
 |  |
 | ------- |
