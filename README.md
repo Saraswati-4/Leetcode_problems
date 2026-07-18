@@ -12,6 +12,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0043-multiply-strings](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
