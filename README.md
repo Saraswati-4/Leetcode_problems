@@ -44,6 +44,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0043-multiply-strings](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
+| [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -101,9 +102,11 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
