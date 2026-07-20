@@ -48,6 +48,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
