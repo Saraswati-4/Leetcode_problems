@@ -57,6 +57,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [1291-sequential-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
