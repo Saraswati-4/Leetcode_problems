@@ -8,6 +8,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
