@@ -69,6 +69,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0061-rotate-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
