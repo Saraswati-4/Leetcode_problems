@@ -28,6 +28,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0607-sales-person) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1327-list-the-products-ordered-in-a-period) |
