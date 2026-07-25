@@ -52,6 +52,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0148-sort-list](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
