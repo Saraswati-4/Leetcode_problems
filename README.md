@@ -45,6 +45,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1789-primary-department-for-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1873-calculate-special-bonus) |
 ## Math
 |  |
 | ------- |
