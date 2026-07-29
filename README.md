@@ -48,6 +48,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1873-calculate-special-bonus](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Math
 |  |
 | ------- |
