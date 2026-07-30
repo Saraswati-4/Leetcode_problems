@@ -27,6 +27,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [2413-smallest-even-multiple](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
