@@ -52,6 +52,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1965-employees-with-missing-information](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3570-find-books-with-no-available-copies) |
 ## Math
 |  |
 | ------- |
