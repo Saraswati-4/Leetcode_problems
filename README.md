@@ -17,6 +17,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1331-rank-transform-of-an-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
