@@ -24,6 +24,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
