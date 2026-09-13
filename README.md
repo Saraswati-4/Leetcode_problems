@@ -8,6 +8,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
