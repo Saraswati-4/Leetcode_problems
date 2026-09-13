@@ -23,6 +23,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [2540-minimum-common-value](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1291-sequential-digits](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
