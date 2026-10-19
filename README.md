@@ -74,6 +74,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraswati-4/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Saraswati-4/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
